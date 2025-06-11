@@ -1,0 +1,15 @@
+task to do ----
+
+1-> study about below---
+
+
+GET: Retrieves information or data from a specified resource.
+POST: Submits data to be processed to a specified resource (e.g., creating a new entry).
+PUT: Updates a specified resource with entirely new data.
+PATCH: Partially updates a specified resource, modifying only the specified fields.
+DELETE: Deletes a specified resource.
+
+
+2-> implement above methods using fastapi--
+3->diff btw http and https--
+4-> swagger ?? 
