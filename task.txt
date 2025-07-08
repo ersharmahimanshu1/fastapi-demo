@@ -1,0 +1,22 @@
+task to do ----
+1. study and implement below API methods---
+  GET: Retrieves information or data from a specified resource.
+  POST: Submits data to be processed to a specified resource (e.g., creating a new entry). req param - name, res- hello "name"
+  PUT: Updates a specified resource with entirely new data. req param - name, res- hello "name", this is put api
+  PATCH: Partially updates a specified resource, modifying only the specified fields. req param - name, res- hello "name", this is patch api
+  DELETE: Deletes a specified resource. req param - name, res- hello "name", this is delete api
+2. diff btw http and https?
+3. What is Swagger ?? 
+4. What is Sync and Async?
+5. What is Git? what is github? History
+  git status, git add, git merge, git commit, git branch, git pull, git push
+  
+
+--- uvicorn -web server----
+
+
+6. Will make a Proper database (MySQL, postGresql, MSSQL) 
+7. Proper structure of repository
+8. Will try for CRUD (Create, Read, Update and Delete).
+9. Authentication and Authorization
+10. Error Handling and log writing.
